@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="115" viewBox="0 0 121 115">
+  <defs>
+    <filter id="Прямоугольник_92" x="0" y="0" width="121" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#f0f4fc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Прямоугольник_92)">
+    <rect id="Прямоугольник_92-2" data-name="Прямоугольник 92" width="103" height="97" rx="12" transform="translate(9 6)" fill="#f0f4fc" opacity="0.75"/>
+  </g>
+</svg>
